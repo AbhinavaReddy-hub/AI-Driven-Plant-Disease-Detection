@@ -10,7 +10,7 @@ import os
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
 
 # Constants
-MODEL_PATH = "C:\\Users\\moham\\Desktop\\Final Project final final\\AI-Driven-Plant-Disease-Detection\\leaf_classifaction_model\\leaf_classifier_model.keras"
+MODEL_PATH = r"C:\Users\moham\Desktop\Projects\Project School\2-1\Plant Disease Detection\AI-Driven-Plant-Disease-Detection\leaf_classifaction_model\leaf_classifier_model.keras"
 API_URL = "https://api-inference.huggingface.co/models/ozair23/mobilenet_v2_1.0_224-finetuned-plantdisease"
 HEADERS = {"Authorization": "Bearer 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"}
 
