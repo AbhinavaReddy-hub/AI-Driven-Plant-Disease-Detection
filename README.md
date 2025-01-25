@@ -20,4 +20,4 @@ Vriksha Rakshak is an *AI Driven Plant Disease Detection System* that aims to **
 9. **Clean and easy UI** for non technical literates to easily browse through the sections<br/>
 
 
-[Presentation Of Project](./assets/ppt.pptx)
+[Presentation Of Project](https://docs.google.com/presentation/d/11H8co6SnXv_Zp-aIvGhkv10VElruL5Yy/edit?usp=sharing&ouid=115451759199260958875&rtpof=true&sd=true)
